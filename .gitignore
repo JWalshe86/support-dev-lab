@@ -1,0 +1,21 @@
+﻿# Node
+node_modules/
+api/node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-*.log
+
+# Env & secrets
+.env
+*.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Tests
+coverage/
+
+# Misc
+*.pid
